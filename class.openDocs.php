@@ -1,4 +1,16 @@
 <?php
+
+/*
+*** 
+
+I got this file in:
+
+https://www.phpclasses.org/package/7934-PHP-Convert-MS-Word-Docx-files-to-text.html
+
+
+*** 
+*/
+
 class DocxConversion{
     private $filename;
 
